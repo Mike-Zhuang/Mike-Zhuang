@@ -24,7 +24,7 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 * 🔭 **Leading:** **[Southwest Building 1 Digital Twin](https://github.com/Southwest-Building-1-Digital-Twin)** (Historic Preservation) & **TJCS Car Sim**.
 * 🔬 **Researching:** **Semantic-Driven 3D Reconstruction** (AIGC + NeRF) & **Embodied AI**.
 * ⚡ **Identity:** A developer bridging the gap between "High-Tech Algorithms" and "Industrial Application".
-* 🎹 **Art:** I play the piano (Lan Ting Xu, Flower Dance) to find order in chaos.
+* 🎹 **Art:** I play the piano (Merry Christmas Mr. Lawrence, Lan Ting Xu, Flower Dance, among others) to find order in chaos.
 
 ---
 
