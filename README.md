@@ -46,7 +46,8 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
   <tr>
     <td align="center" width="50%">
       <b>Scientific Computing</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda" /></a><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md" /></a>
     </td>
     <td align="center" width="50%">
       <b>Full Stack & Productivity</b><br/><br/>
