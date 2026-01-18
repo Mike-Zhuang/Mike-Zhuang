@@ -28,19 +28,32 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 
 ---
 
-## 🛠️ Tech Arsenal
+<h3>🛠️ Tech Arsenal</h3>
 
 <div align="center">
 
-| **Simulation & Core Engineering** | **AI & Computer Vision** |
-| :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn&perline=3" /></a> |
-| **C++, C#, Unity, Qt, Linux** | **PyTorch, TF, CV, HuggingFace** |
-
-| **Scientific Computing** | **Full Stack & Productivity** |
-| :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a> |
-| **MATLAB, LaTeX, Anaconda, Docs** | **.NET, Web, SQL, Redis, PS** |
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Simulation & Core</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>AI & Computer Vision</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn&perline=3" /></a>
+    </td>
+    <td align="center" width="33%">
+      <b>Scientific Computing</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=2" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <b>Full Stack & Productivity</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=6" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -60,9 +73,9 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 ### 🌌 Open Source & Simulation
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **火星化学实验室数字孪生**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `LLM` |
-| **[ChemWave Maze Solver](https://github.com/Mike-Zhuang/ChemWave-Maze-Solver)** | **1995年《科学》论文复现**. Simulating the Barkley Model of excitable media to solve mazes using chemical waves. Features real-time CV extraction. | `Python` `OpenCV` `Reaction-Diffusion` |
-| **[Mind-Matter Classroom](https://github.com/Mike-Zhuang/Mind-Matter-Classroom)** | **具身智能未来教室**. A prototype merging MediaPipe gesture control, fluid dynamics, and swarm robotics to make knowledge "tangible". | `Unity` `Python` `MediaPipe` `UDP` |
+| **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **Mars Base Digital Twin**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `LLM` |
+| **[ChemWave Maze Solver](https://github.com/Mike-Zhuang/ChemWave-Maze-Solver)** | **'Science' (1995) Paper Reproduction**. Simulating the Barkley Model of excitable media to solve mazes using chemical waves. Features real-time CV extraction. | `Python` `OpenCV` `Reaction-Diffusion` |
+| **[Mind-Matter Classroom](https://github.com/Mike-Zhuang/Mind-Matter-Classroom)** | **Embodied AI Future Classroom**. A prototype merging MediaPipe gesture control, fluid dynamics, and swarm robotics to make knowledge "tangible". | `Unity` `Python` `MediaPipe` `UDP` |
 
 ---
 
@@ -82,7 +95,8 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 </table>
 
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Zhuang&theme=radical" alt="streak" />
+
+<img src="https://streak-stats.demolab.com?user=Mike-Zhuang&theme=radical" alt="streak" />
 
 </div>
 
