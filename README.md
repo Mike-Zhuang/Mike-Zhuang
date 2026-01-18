@@ -34,23 +34,23 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <b>Simulation & Core</b><br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <b>AI & Computer Vision</b><br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn&perline=3" /></a>
     </td>
-    <td align="center" width="33%">
-      <b>Scientific Computing</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=2" /></a>
-    </td>
   </tr>
   <tr>
-    <td align="center" colspan="3">
+    <td align="center" width="50%">
+      <b>Scientific Computing</b><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=3" /></a>
+    </td>
+    <td align="center" width="50%">
       <b>Full Stack & Productivity</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=6" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a>
     </td>
   </tr>
 </table>
