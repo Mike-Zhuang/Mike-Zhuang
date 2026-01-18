@@ -24,7 +24,7 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 * 🔭 **Leading:** **[Southwest Building 1 Digital Twin](https://github.com/Southwest-Building-1-Digital-Twin)** (Historic Preservation) & **TJCS Car Sim**.
 * 🔬 **Researching:** **Semantic-Driven 3D Reconstruction** (AIGC + NeRF) & **Embodied AI**.
 * ⚡ **Identity:** A developer bridging the gap between "High-Tech Algorithms" and "Industrial Application".
-* 🎹 **Art:** I play the piano (Merry Christmas Mr. Lawrence, Lan Ting Xu, Flower Dance) to find order in chaos.
+* 🎹 **Art:** I play the piano (Lan Ting Xu, Flower Dance) to find order in chaos.
 
 ---
 
@@ -36,22 +36,26 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
   <tr>
     <td align="center" width="50%">
       <b>Simulation & Core</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a><br/>
+      C++, C#, Unity, Qt, Linux, Git
     </td>
     <td align="center" width="50%">
       <b>AI & Computer Vision</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn&perline=3" /></a><br/>
+      Python, PyTorch, TF, CV, HuggingFace
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>Scientific Computing</b><br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda" /></a><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=md" /></a><br/>
+      MATLAB, LaTeX, Anaconda, Markdown
     </td>
     <td align="center" width="50%">
       <b>Full Stack & Productivity</b><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a><br/>
+      .NET, Web, SQL, Redis, PS
     </td>
   </tr>
 </table>
