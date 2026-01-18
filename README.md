@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334D6&center=true&vCenter=true&width=435&lines=Simulating+the+Physical+World;Architecting+Digital+Twins;Exploring+Embodied+Intelligence" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334D6&center=true&vCenter=true&width=480&lines=Architecting+Digital+Twins;NeRF+%26+Generative+AI+Researcher;Simulating+the+Physical+World" alt="Typing SVG" /></a>
 
 </div>
 
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-I am a freshman at the **Future Technology Class** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science**, **Digital Reality**, and **Artificial Intelligence**. I don't just write code; I simulate reality.
+I am a freshman at the **Future Technology Class** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science**, **Digital Reality**, and **Generative AI**.
 
-* 🔭 **Current Focus:** Architecting **Digital Twins** (MarsChemLab) & High-Fidelity **3D Reconstruction**.
-* 🌱 **Learning:** **LLM (Large Language Models)**, **Embodied AI**, and advanced Physics Simulations.
-* ⚡ **Identity:** A university freshman exploring the boundaries between code and scientific laws.
+* 🔭 **Leading:** **[Southwest Building 1 Digital Twin](https://github.com/Southwest-Building-1-Digital-Twin)** (Historic Preservation) & **TJCS Car Sim**.
+* 🔬 **Researching:** **Semantic-Driven 3D Reconstruction** (AIGC + NeRF) & **Embodied AI**.
+* ⚡ **Identity:** A developer bridging the gap between "High-Tech Algorithms" and "Industrial Application".
 * 🎹 **Art:** I play the piano (Lan Ting Xu, Flower Dance) to find order in chaos.
 
 ---
@@ -39,30 +39,29 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 
 | **Scientific Computing** | **Full Stack & Productivity** |
 | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,numpy,pandas,md&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a> |
-| **MATLAB, LaTeX, NumPy, SciComp** | **.NET, Web, SQL, Redis, PS** |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab,latex,anaconda,md&perline=4" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,photoshop&perline=3" /></a> |
+| **MATLAB, LaTeX, Anaconda, Docs** | **.NET, Web, SQL, Redis, PS** |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Research & Projects
 
-### 🌌 Digital Twins & Scientific Simulation
+### 🔒 Confidential R&D & Organization Projects
+> *Projects involving proprietary algorithms or organization leadership.*
+
+| Project | Role & Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Southwest Building 1 Digital Twin](https://github.com/Southwest-Building-1-Digital-Twin)** | **Project Leader**. A high-fidelity Digital Twin project for Tongji's historic dormitory. Features **BIM-to-Game engine workflow** and heritage preservation data visualization. | `Unity` `Digital Twin` `BIM` |
+| **Generative Semantic 3D Modeler** | **Core Developer**. A **NeRF-based** AIGC solution. Features **Natural Language Driven Stylization**, semantic segmentation (OmniSeg3D), and a custom **Blender Plugin** for industrial design deployment. | `NeRF` `Generative AI` `Blender API` `Python` |
+| **[TJCS Car Sim](https://github.com/xingxianggang/TJCS_Car_Sim_1092)** | **Lead Developer**. Leading the development of a complex bridge traffic simulation modeling weather impact, vehicle decision-making, and chaos theory. | `C++` `Simulation` `Data Analysis` |
+
+### 🌌 Open Source & Simulation
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **火星化学实验室数字孪生**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `Digital Twin` |
+| **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **火星化学实验室数字孪生**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `LLM` |
 | **[ChemWave Maze Solver](https://github.com/Mike-Zhuang/ChemWave-Maze-Solver)** | **1995年《科学》论文复现**. Simulating the Barkley Model of excitable media to solve mazes using chemical waves. Features real-time CV extraction. | `Python` `OpenCV` `Reaction-Diffusion` |
-
-### 🚗 Complex Systems & Organization Projects
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[TJCS Car Sim (Lead)](https://github.com/xingxianggang/TJCS_Car_Sim_1092)** | **交通流仿真系统**. Leading the development of a complex bridge traffic simulation modeling weather impact, vehicle decision-making, and chaos theory. | `C++` `Simulation` `Data Analysis` |
-| **[Clock (Advanced)](https://github.com/Mike-Zhuang/Clock)** | A multi-function graphical clock featuring a custom **SDF (Signed Distance Field) anti-aliasing** rendering engine written from scratch. | `C++` `EasyX` `Computer Graphics` |
-
-### 🤖 HCI & Embodied Intelligence
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
 | **[Mind-Matter Classroom](https://github.com/Mike-Zhuang/Mind-Matter-Classroom)** | **具身智能未来教室**. A prototype merging MediaPipe gesture control, fluid dynamics, and swarm robotics to make knowledge "tangible". | `Unity` `Python` `MediaPipe` `UDP` |
 
 ---
