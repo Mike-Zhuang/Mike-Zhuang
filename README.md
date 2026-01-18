@@ -5,8 +5,16 @@
 **Future Technology Student @ Tongji University / Guohao College**
 
 [![Tongji](https://img.shields.io/badge/Tongji-University-005596?style=flat-square&logo=c)](https://www.tongji.edu.cn/)
+![Profile Views](https://komarev.com/ghpvc/?username=Mike-Zhuang&label=Profile%20Views&color=0e75b6&style=flat-square)
 [![Location](https://img.shields.io/badge/From-Heilongjiang_❄️-blue?style=flat-square)](https://github.com/Mike-Zhuang)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-orange?style=flat-square&logo=gmail)](mailto:cbzhuang@tongji.edu.cn)
+[![Email](https://img.shields.io/badge/Email-cbzhuang%40tongji.edu.cn-orange?style=flat-square&logo=gmail)](mailto:cbzhuang@tongji.edu.cn)
+
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mike-Zhuang&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Mike-Zhuang" />
+</a>
+
+<br/>
 
 **"Simulating the physical world, one line of code at a time."**
 
@@ -16,21 +24,26 @@
 
 ## 👨‍💻 About Me
 
-I am a freshman at the **Future Technology Class** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science** and **Digital Reality**. I specialize in building Digital Twins, simulating complex chemical/physical systems, and exploring Embodied AI.
+I am a freshman at the **Future Technology Class** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science**, **Digital Reality**, and **Artificial Intelligence**.
 
-* 🔭 I’m currently working on **Unity-based Digital Twins** & **AI-integrated Simulations**.
-* 🧪 I love visualizing invisible scientific principles (Thermodynamics, Reaction-Diffusion).
-* 🎹 I play the piano (Lan Ting Xu, Flower Dance) when I'm not coding.
+* 🔭 I’m currently working on **MarsChemLab** (Digital Twin) & **3D Reconstruction**.
+* 🌱 I’m currently learning **LLM (Large Language Models)** & **Embodied AI**.
+* ⚡ Fun fact: I am a university **freshman** exploring the boundaries of code and science.
+* 🎹 Hobby: I play the piano (Lan Ting Xu, Flower Dance).
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-| **Core Languages** | **Game & Sim Engines** | **AI & Data Science** | **Scientific Comp** |
-| :---: | :---: | :---: | :---: |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white) |
-| ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![EasyX](https://img.shields.io/badge/-EasyX-brown?style=flat-square) | ![TensorFlow](https://img.shields.io/badge/-GLM--4%20%2F%20LLM-purple?style=flat-square) | ![LaTeX](https://img.shields.io/badge/-LaTeX-47A4A5?style=flat-square&logo=latex&logoColor=white) |
-| | | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | |
+| **Simulation & Core** | **AI & Data Science** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,cs,unity,qt,linux,git&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,opencv,huggingface&perline=3" /></a> |
+| **C++, C#, Unity, Qt, Linux** | **PyTorch, TF, CV, HuggingFace** |
+
+| **Scientific Computing** | **Full Stack & Tools** |
+| :---: | :---: |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,jupyter,matlab,numpy,pandas,matplotlib&perline=3" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,django,flask,mysql,redis,postgres,photoshop&perline=4" /></a> |
+| **Anaconda, MATLAB, SciPy** | **.NET, Web, SQL, Redis, PS** |
 
 ---
 
@@ -59,7 +72,11 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 
 <div align="center">
 
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mike-Zhuang&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mike-Zhuang&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mike-Zhuang&show_icons=true&locale=en&layout=compact&theme=radical" height="180" alt="languages" />
+
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mike-Zhuang&theme=radical" alt="streak" />
 
 </div>
 
