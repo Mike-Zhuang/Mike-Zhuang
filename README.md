@@ -77,6 +77,7 @@ I am a freshman at the **Future Technology Class** of Guohao College, Tongji Uni
 | **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **Mars Base Digital Twin**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `LLM` |
 | **[ChemWave Maze Solver](https://github.com/Mike-Zhuang/ChemWave-Maze-Solver)** | **'Science' (1995) Paper Reproduction**. Simulating the Barkley Model of excitable media to solve mazes using chemical waves. Features real-time CV extraction. | `Python` `OpenCV` `Reaction-Diffusion` |
 | **[Mind-Matter Classroom](https://github.com/Mike-Zhuang/Mind-Matter-Classroom)** | **Embodied AI Future Classroom**. A prototype merging MediaPipe gesture control, fluid dynamics, and swarm robotics to make knowledge "tangible". | `Unity` `Python` `MediaPipe` `UDP` |
+| **[Clock (Advanced)](https://github.com/Mike-Zhuang/Clock)** | **High-Performance Graphics**. A multi-function clock featuring a custom **SDF (Signed Distance Field) anti-aliasing** rendering engine written from scratch. | `C++` `EasyX` `Computer Graphics` |
 
 ---
 
