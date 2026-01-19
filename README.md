@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am a freshman at the **Future Technology Class** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science**, **Digital Reality**, and **Generative AI**.
+I am a freshman at the **Future Technology Programme** of Guohao College, Tongji University. My passion lies at the intersection of **Physical Science**, **Digital Reality**, and **Generative AI**.
 
 * 🔭 **Leading:** **[Southwest Building 1 Digital Twin](https://github.com/Southwest-Building-1-Digital-Twin)** (Historic Preservation) & **TJCS Car Sim**.
 * 🔬 **Researching:** **Semantic-Driven 3D Reconstruction** (AIGC + NeRF) & **Embodied AI**.
