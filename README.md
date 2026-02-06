@@ -78,6 +78,7 @@ I am a freshman at the **Future Technology Programme** of Guohao College, Tongji
 ### 🌌 Open Source & Simulation
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Underground Shelter AI System](https://github.com/Mike-Zhuang/Capstone_Project)** | **Cyber-Physical System (CPS)**. A post-apocalyptic shelter management simulator. Integrates **Unity 3D** visualization with **Python AI** backend (Decision Tree & Regression) for real-time emergency response. | `Unity` `Python` `Scikit-learn` `TCP/IP` |
 | **[MarsChemLab](https://github.com/Mike-Zhuang/MarsChemLab)** | **Mars Base Digital Twin**. A high-fidelity Mars base simulation integrating survival logic, chemical reaction kinetics, and **MOSS (AI) personality**. | `Unity` `C#` `ZhipuAI` `LLM` |
 | **[ChemWave Maze Solver](https://github.com/Mike-Zhuang/ChemWave-Maze-Solver)** | **'Science' (1995) Paper Reproduction**. Simulating the Barkley Model of excitable media to solve mazes using chemical waves. Features real-time CV extraction. | `Python` `OpenCV` `Reaction-Diffusion` |
 | **[Mind-Matter Classroom](https://github.com/Mike-Zhuang/Mind-Matter-Classroom)** | **Embodied AI Future Classroom**. A prototype merging MediaPipe gesture control, fluid dynamics, and swarm robotics to make knowledge "tangible". | `Unity` `Python` `MediaPipe` `UDP` |
